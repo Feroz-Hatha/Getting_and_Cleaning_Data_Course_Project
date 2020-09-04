@@ -1,4 +1,4 @@
-# Getting_and_Cleaning_Data_Course_Project #
+# Getting and Cleaning Data Course Project #
 
 This is the repository that was created as a part of the requirements for the course 'Getting and Cleaning Data' . It includes an R file that reads a dataset and outputs a tidy dataset by carrying out the specified operations on the input dataset, the tidy dataset itself, and a codebook that explains the different variables in the tidy dataset and also the transformations carried out to obtain the same.
 
